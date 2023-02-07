@@ -25,7 +25,7 @@ Thermal treatment of bromine-contaminated polymers (i.e., as in e-waste) with me
 
 [Pandas 1.1.1](https://pandas.pydata.org/)
 
-[Altair3 3.2.0](https://altair-viz.github.io/)
+[Altair 3.2.0](https://altair-viz.github.io/)
 
 [Scikit-learn 0.22.1](https://scikit-learn.org/stable/)
 
