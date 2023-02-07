@@ -18,3 +18,15 @@ Thermal treatment of bromine-contaminated polymers (i.e., as in e-waste) with me
    Model input can be found [here](https://github.com/vigchandra/TGA_ANN_pred/blob/master/data/consolidated_2022-10-13_v1)
    
    Model output can be found [here](https://github.com/vigchandra/TGA_ANN_pred/tree/master/output)
+
+## Dependencies
+
+[Python 3.7.6](https://www.python.org/)
+
+[Pandas 1.1.1](https://pandas.pydata.org/)
+
+[Altair3 3.2.0](https://altair-viz.github.io/)
+
+[Scikit-learn 0.22.1](https://scikit-learn.org/stable/)
+
+[Numpy 1.18.5](https://numpy.org/)
